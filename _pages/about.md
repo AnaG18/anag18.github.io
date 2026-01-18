@@ -16,11 +16,13 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hello! I'm Ana Paola Garcia Alonzo, from Mexico.
+Hello! I'm Ana Paola Garcia Alonzo, and I am from Mexico.
 
-I am pursuing my Bachelors from Tecnologico de Monterrey, Guadalajara Campus in Biomedical Engineering (2020-2024)
+I am currently pursuing my PhD in Biomedical Engineering at Johns Hopkins University in Baltimore, MD. I obtained my Bachelors degree from Tecnologico de Monterrey, Guadalajara Campus in Biomedical Engineering (2020-2024). 
 
-I will try to update this site. 
+As second year PhD student I am approaching the deadline for presenting my DBO (doctoral board oral exam) this summer. With this upcoming deadline I will try to update because I believe in trying to make my own research accessible to the rest of the community (both in English and Spanish).  
+
+I will try to update this site as muchs as I can. 
 
 <!--Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
