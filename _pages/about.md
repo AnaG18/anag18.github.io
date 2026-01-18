@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Johns Hopkins University. <a href='https://sarmalab.icm.jhu.edu/'>Neuromedical Control Systems Lab</a>. Baltimore. Luego de que nos vamos a acordar...
 
 profile:
   align: right
